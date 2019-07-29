@@ -1,6 +1,6 @@
 package rectangle;
 
 public class rectangle {
-	int l,b;
+	int length,b;
 
 }
